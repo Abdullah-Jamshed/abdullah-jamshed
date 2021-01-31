@@ -3,7 +3,7 @@
 
 ## I'm a Student !!
 - 🌱 I’m currently learning AWS
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 
