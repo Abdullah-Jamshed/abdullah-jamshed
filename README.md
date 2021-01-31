@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-  <img align="left" alt="abdullah-jamshed GitHub Stats" src="https://github-readme-stats.abdullah-jamshed.vercel.app/api?username=abdullah-jamshed&show_icons=true&hide_border=true" />
+<img align="left" alt="Abdullah Jamshed GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdullah-jamshed&show_icons=true&hide_border=true" />
