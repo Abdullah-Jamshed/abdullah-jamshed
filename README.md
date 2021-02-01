@@ -38,5 +38,12 @@ ___
 ___
 
   <img align="left" alt="Abdullah Jamshed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdullah-jamshed&show_icons=true&hide_border=true" />
+  
+  <br />
+  
+  
+  
+  <img align="left" alt="Abdullah Jamshed's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-jamshed&theme=white&layout=compact&show_icons=true&hide_border=true" />
+  
 
 
