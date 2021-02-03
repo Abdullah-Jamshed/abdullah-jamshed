@@ -11,32 +11,9 @@
 
 ### Languages and Tools:
 
-<!--
-
-img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
--->
-
 
 <p align="left">
- <a href="#">
+<a href="#">
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -59,13 +36,14 @@ img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubus
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/React-0081cb?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="React-Native" src="https://img.shields.io/badge/React%20Native-0081A5?&style=for-the-badge&logo=react&logoColor=white"/>
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="Contentful" src="https://img.shields.io/badge/contentful-2478CC?&style=for-the-badge&logo=contentful&logoColor=white"/>
 <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?&style=for-the-badge&logo=gatsby&logoColor=white"/> 
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white"/>
- <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit%20Learn-F7931E?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-339933?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img alt="Express" src="https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express&logoColor=white"/>
@@ -76,8 +54,7 @@ img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubus
 <img alt="GitHUb" src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-181717?&style=for-the-badge&logoColor=white"/>
 <img alt="Machine Learing" src="https://img.shields.io/badge/Machine%20Learning-31B8BB?&style=for-the-badge&logoColor=white"/>
-  
- </a>
+</a>
 </p>
 
 <br />
@@ -86,20 +63,21 @@ img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubus
 ---
 
 <a href="#">
-  <img align="left" alt="Abdullah Jamshed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdullah-jamshed&show_icons=true&hide_border=true" />
- </a>
+ <img align="left" alt="Abdullah Jamshed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdullah- jamshed&show_icons=true&hide_border=true" />
+</a>
+ 
+<br />
   
-  <br />
-  
-  
-  <a href="#">
-  <img align="left" alt="Abdullah Jamshed's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-jamshed&theme=white&layout=compact&show_icons=true&hide_border=true&langs_count=10&hide=css,html" />
-  </a>
-  
-  
-  <br />
-  <br />
-  
-  <a href="#">
+<a href="#">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-jamshed&" alt="abdullah-jamshed" /></p>
 </a>
+  
+<br />
+  
+  
+<a href="#">
+  <img align="left" alt="Abdullah Jamshed's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-jamshed&theme=white&layout=compact&show_icons=true&hide_border=true&langs_count=10&hide=css,html" />
+</a>
+  
+
+
