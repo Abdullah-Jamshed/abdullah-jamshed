@@ -63,7 +63,8 @@
 ---
 
 <a href="#">
- <img align="left" alt="Abdullah Jamshed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdullah- jamshed&show_icons=true&hide_border=true" />
+<img align="left" alt="Abdullah Jamshed's GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=abdullah-jamshed&show_icons=true&hide_border=true" />
 </a>
  
 <br />
