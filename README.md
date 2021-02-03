@@ -44,7 +44,6 @@ img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubus
 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
@@ -60,6 +59,23 @@ img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubus
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/React-0081cb?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="React-Native" src="https://img.shields.io/badge/React%20Native-0081A5?&style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Contentful" src="https://img.shields.io/badge/contentful-2478CC?&style=for-the-badge&logo=contentful&logoColor=white"/>
+<img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?&style=for-the-badge&logo=gatsby&logoColor=white"/> 
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white"/>
+ <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit%20Learn-F7931E?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-339933?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img alt="Express" src="https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?&style=for-the-badge&logo=graphql&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white"/>
+<img alt="VS code" src="https://img.shields.io/badge/VScode-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  
+  
+  
  </a>
 </p>
 
