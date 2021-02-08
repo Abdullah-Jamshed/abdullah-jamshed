@@ -1,6 +1,6 @@
 <!-- ### Hi there, I'm Abdullah -->
 
-##  I'm a Abdullah !!
+##  I'm Abdullah !!
 
 
 - 🌱 I’m currently learning AWS
