@@ -1,6 +1,7 @@
 <!-- ### Hi there, I'm Abdullah -->
 
-### I'm a Student !!
+##  I'm a Abdullah !!
+
 
 - 🌱 I’m currently learning AWS
 - 🥅 2021 Goals: Contribute more to Open Source projects
