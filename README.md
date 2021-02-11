@@ -4,7 +4,7 @@
 
 ### Web & Mobile Application developer !!
 
-<!-- <img alt="banner" src="./resource/image.gif" /> -->
+ <img alt="banner" src="./resource/image.gif" /> 
 
 
 - 🌱 I’m currently learning AWS
