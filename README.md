@@ -4,7 +4,6 @@
 
 ### Web & Mobile Application developer !!
 
-<!-- <img alt="banner" src="./resource/image.gif" /> -->
 ![React gif](/resource/image.gif)
 
 
