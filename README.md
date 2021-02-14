@@ -1,6 +1,6 @@
-<!-- ### Hi there, I'm Abdullah -->
+<!-- ###I'm Abdullah -->
 
-##  I'm Abdullah !!
+##  Hi there, I'm Abdullah !!
 
 ### Web & Mobile Application developer !!
 
