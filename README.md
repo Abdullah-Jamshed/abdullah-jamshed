@@ -6,6 +6,9 @@
 
 ![React gif](/resource/image.gif)
 
+
+<!--
+
 - 🌱 I’m currently learning AWS
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
@@ -14,6 +17,7 @@
 
 ---
 
+-->
 
 ### Languages and Tools:
 
@@ -43,7 +47,7 @@
 <img alt="React" src="https://img.shields.io/badge/React-0081cb?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="React-Native" src="https://img.shields.io/badge/React%20Native-0081A5?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/>
+<!-- <img alt="Django" src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/> -->
 <img alt="Contentful" src="https://img.shields.io/badge/contentful-2478CC?&style=for-the-badge&logo=contentful&logoColor=white"/>
 <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?&style=for-the-badge&logo=gatsby&logoColor=white"/> 
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
