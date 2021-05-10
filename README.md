@@ -95,9 +95,7 @@
 
 
 
-<a href="#">
-<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-jamshed"  /></p> -->
-</a>
+<!-- <a href="#"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-jamshed"  /></p></a> -->
 
                                                                                                                               
                                                                                                                               
