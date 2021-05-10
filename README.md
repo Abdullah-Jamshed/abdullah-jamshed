@@ -90,7 +90,7 @@
 
 <br />
    
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-jamshed&theme=white)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-jamshed&theme=default)](https://git.io/streak-stats)
    
    
 
