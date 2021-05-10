@@ -89,14 +89,19 @@
 </a>
 
 <br />
+   
+   
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-jamshed)](https://git.io/streak-stats)
+
+
+
 <a href="#">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-jamshed" alt="abdullah-jamshed" /></p>
+<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-jamshed"  /></p> -->
 </a>
 
                                                                                                                               
                                                                                                                               
                                                                                                                               
-
   
 
 
