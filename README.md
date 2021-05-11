@@ -75,12 +75,12 @@
 ---
 
 
- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-jamshed&show_icons=true&hide_border=true)]()
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-jamshed&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
                                   
 
    
-[![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-jamshed&theme=white&layout=compact&show_icons=true&hide_border=true&langs_count=10&hide=css,html)]()
+[![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-jamshed&theme=white&layout=compact&show_icons=true&hide_border=true&langs_count=10&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
    
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-jamshed&theme=default)](https://git.io/streak-stats)
