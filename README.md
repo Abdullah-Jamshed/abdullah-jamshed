@@ -57,7 +57,7 @@
 <!-- [![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-181717?&style=for-the-badge&logoColor=white)](#) -->
 <!-- [![JUPYTER](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](#) -->
 <!-- [![POSTGRESSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](#) -->
-[![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#) -->
+<!--  [![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#) -->
 
 ---
 
