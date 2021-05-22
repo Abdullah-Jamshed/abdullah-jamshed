@@ -28,7 +28,7 @@
 [![REACT-NATIVE](https://img.shields.io/badge/React%20Native-0081A5?&style=for-the-badge&logo=react&logoColor=white)](#)
 [![REDUX](https://img.shields.io/badge/Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white)](#)
 [![MUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)](#)
-[![NODEJS](https://img.shields.io/badge/Nodejs-339933?&style=for-the-badge&logo=Node.js&logoColor=white)](#)
+[![NODEJS](https://img.shields.io/badge/Nodejs-339933?&style=for-the-badge&logo=Node-dot-js&logoColor=white)](#)
 [![EXPRESS](https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express&logoColor=white)](#)
 [![FLASK](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white)](#)
 [![DJANGO](https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white)](#)
