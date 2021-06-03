@@ -47,11 +47,13 @@
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-076d7a?&style=for-the-badge&logo=graphql&logoColor=white)](#)
 [![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](#)
 [![GITHUB](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white)](#)
-[![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+
+
+<!-- [![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](#)
 [![SHELL](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white)](#)
-[![VSCODE](https://img.shields.io/badge/VScode-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+[![VSCODE](https://img.shields.io/badge/VScode-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) -->
 
 
 <!-- [![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-181717?&style=for-the-badge&logoColor=white)](#) -->
