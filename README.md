@@ -52,8 +52,6 @@
 [![SHELL](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white)](#)
 [![VSCODE](https://img.shields.io/badge/VScode-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) 
-
-
 <!-- [![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-181717?&style=for-the-badge&logoColor=white)](#) -->
 <!-- [![JUPYTER](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](#) -->
 <!-- [![POSTGRESSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](#) -->
