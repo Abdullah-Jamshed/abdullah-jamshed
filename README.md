@@ -180,17 +180,6 @@
    src="https://github-readme-stats.vercel.app/api?username=abdullah-jamshed&show_icons=true&hide_border=true&bg_color=00000000" /> 
 </a>    -->  
 
-
-<!-- <a href="#">
- <img align="left" alt="Abdullah Jamshed's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-jamshed&theme=white&layout=compact&show_icons=true&hide_border=true&langs_count=10&hide=css,html" />
----------
-// <img align="left" alt="Abdullah Jamshed's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-jamshed&theme=white&layout=compact&show_icons=true&hide_border=true&langs_count=10&hide=css,html&bg_color=00000000" /> 
-</a> 
--->
-
-
-<!-- <a href="#"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-jamshed"  /></p></a> -->
-
                                                                                                                               
                                                                                                                               
                                                                                                                               
