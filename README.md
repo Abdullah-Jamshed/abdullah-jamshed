@@ -159,7 +159,6 @@
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="GitHUb" src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-181717?&style=for-the-badge&logoColor=white"/>
-<img alt="Machine Learing" src="https://img.shields.io/badge/Machine%20Learning-31B8BB?&style=for-the-badge&logoColor=white"/>
  </a> 
 </p> -->
 
