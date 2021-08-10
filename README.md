@@ -151,7 +151,6 @@
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?&style=for-the-badge&logo=graphql&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="VS code" src="https://img.shields.io/badge/VScode-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="GitHUb" src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/>
  </a> 
 </p> -->
