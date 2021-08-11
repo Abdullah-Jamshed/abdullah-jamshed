@@ -149,7 +149,6 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-339933?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img alt="Express" src="https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?&style=for-the-badge&logo=graphql&logoColor=white"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="VS code" src="https://img.shields.io/badge/VScode-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img alt="GitHUb" src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/>
  </a> 
