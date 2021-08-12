@@ -142,7 +142,6 @@
 <img alt="Django" src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/> 
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="KUBERNETES" src="https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white"/>
 <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit%20Learn-F7931E?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
