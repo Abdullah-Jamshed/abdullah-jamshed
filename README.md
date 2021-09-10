@@ -4,7 +4,7 @@
 
 ### Web & Mobile Application developer !!
 
-[![React gif](/resource/image.gif)](#)
+[![React gif](/resource/image-min.gif)](#)
 
 
 <!--
